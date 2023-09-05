@@ -1,5 +1,4 @@
-{
-    "tiles": [
+[
       {
         "id": 1,
         "title": "European Ques",
@@ -121,5 +120,4 @@
         "rating": 4.9
       }
     ]
-  }
   
